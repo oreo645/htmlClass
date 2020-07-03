@@ -1,0 +1,57 @@
+body{
+    background-color: gray;
+    padding: 0%;
+    margin: 0cm;
+}
+
+ .ClassBox{
+
+ }
+
+ .IDcircle{
+     width: 200px;
+     height: 200px;
+     background-color: blue;
+     border-radius:100px ;
+
+    }
+
+.IDcircle{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 100px;
+    
+
+
+}
+
+
+.IDcircle{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 100px;
+  
+}
+
+#IDbox{
+
+}
+#IDfish{width: 300px;
+        height: 300px;
+        background-color: yellow;
+        margin: 10px;
+        margin-top: 20px;
+        margin-left: 30px;
+        margin-bottom: 40px;
+        margin-right: 50px;
+border-radius: 20px 20px 20px 20px;
+filter: drop-shadow(1px 2px 2px rgba(255, 255, 255, 0.678));
+border-style: double;
+border-width: 20px;
+padding-top: 90px;
+padding-left: 10px;
+}
+
+
